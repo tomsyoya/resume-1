@@ -5,7 +5,6 @@
 ![create issue](https://img.shields.io/github/workflow/status/kawamataryo/resume/create%20issue?label=create%20issue&logo=github&color=orange)
 ![release date](https://img.shields.io/github/release-date/kawamataryo/resume?color=blue&logo=github)
 
-[ [English](https://github.com/kawamataryo/resume) | 日本語 ]
 
 ## Data
 
