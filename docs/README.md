@@ -6,7 +6,7 @@
 | -------- | ---------------------- |
 | 氏名     | 佐野 創也（Soya Sano） |
 | 生年月日 | 1991/08/12             |
-| 居住地   | 静岡県県               |
+| 居住地   | 静岡県                 |
 | 最終学歴 | 日本大学国際関係学部   |
 
 ---
@@ -14,8 +14,8 @@
 ## 各種アカウント
 <p>
 <a href="https://github.com/tomsyoya" target="_blank"><img alt="Github" src="https://img.shields.io/badge/tomsyoya-%2312100E.svg?&style=flat-square&logo=Github&logoColor=white" /></a>
-<a href="https://twitter.com/tomsyoya" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/@KawamataRyo-%231DA1F2.svg?&style=flat-square&logo=twitter&logoColor=white" /></a>
-<a href="https://qiita.com/tomsyoya" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/ryo2132-55C500.svg?&style=flat-square&logo=qiita&logoColor=white" /></a>
+<a href="https://twitter.com/tomsyoya" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/@tomsyoya-%231DA1F2.svg?&style=flat-square&logo=twitter&logoColor=white" /></a>
+<a href="https://qiita.com/tomsyoya" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/tomsyoya-55C500.svg?&style=flat-square&logo=qiita&logoColor=white" /></a>
 </p>
 
 ---
@@ -37,7 +37,6 @@
   <img alt="Go" src="https://img.shields.io/badge/-Go-007396?style=flat-square&logo=Go&logoColor=white" />
   <img alt="Ruby" src="https://img.shields.io/badge/-Ruby-CC342D?style=flat-square&logo=Ruby&logoColor=white" />
   <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white" />
-  <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
 </p>
 
 ### フレームワーク・その他
@@ -45,8 +44,7 @@
   <img alt="SpringBoot" src="https://img.shields.io/badge/-SpringBoot-6DB33F?style=flat-square&logo=springboot&logoColor=white" />
   <img alt="AWS" src="https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white" />
   <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
-  <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
- <img alt="Ruby-on-Rails" src="https://img.shields.io/badge/-Rails-CC0000?style=flat-square&logo=Ruby-on-Rails&logoColor=white" />
+   <img alt="Ruby-on-Rails" src="https://img.shields.io/badge/-Rails-CC0000?style=flat-square&logo=Ruby-on-Rails&logoColor=white" />
 </p>
 
 ---
@@ -119,6 +117,7 @@ Javaによる開発に加え、AWS、Goなどを使用した開発に従事し�
     - Java8, Jersey, Maven, jQuery, Thymeleaf, Git, GitLab, Jenkins, PostgreSQL, Tomcat, Redmine, Eclipse, Teraterm, Slack, Zoom, Microsoft Teams, CentOS7, RedHatEnterpriseLinux, Windows10
 - **習得した技術：**
     - マイクロサービスアーキテクチャ構成での開発
+    - jenkinsを用いた開発環境へのリリース
 - **メンバーとしての振る舞い**
     - 人手不足ということもあり、なるべくチームリーダーのタスク(お客様やPMとの折衝、スケジュール管理以外の開発、ドキュメント作成)を自分の方で巻取り、全体の進捗を早く回せるよう意識しました。
 
@@ -147,6 +146,7 @@ Javaによる開発に加え、AWS、Goなどを使用した開発に従事し�
 - **習得した技術：**
     - AWSクラウド環境での開発
     - ジョブ管理ツールを用いたバッチ機能開発
+    - mavenプロジェクトでの開発
 - **メンバーとしての振る舞い**
     - 個人開発でGit・GitHubおよびAWSの使用経験があったため、チームメンバーにノウハウや知見を共有。新しくAWSを導入するにあたって、英語の公式ドキュメントの調査・内容の共有も行いました。
 
@@ -202,10 +202,10 @@ Java, Linuxの研修受講後、客先常駐先で主にテスト業務に従事
     - jQueryを使用したWeb画面作成
 
 
-**社内物品管理ツールの改修（2015/07〜2015/12）**
+**家電メーカー製品動作検証プロジェクト（2015/07〜2015/12）**
 
 - **プロジェクト概要:**
-    - 家電メーカー製品動作検証プロジェクト
+    - 業務用Andoroid端末、WindowsOSを搭載したテレビの動作検証
   
 - **プロジェクト規模：**
     - プロジェクト人数... 30人
@@ -227,7 +227,6 @@ Java, Linuxの研修受講後、客先常駐先で主にテスト業務に従事
 - **習得した技術：**
     - Java, Strutsフレームワークを使用したWebアプリケーション構築
     - Linuxの基本操作
-
 ## 意欲・興味
 - 少人数チームで小さく早くリリースし、フィードバックを受けながら改善のサイクルを回していくアジャイルな開発スタイルを好みます
 - フロントエンドだけではなくバックエンド・インフラなど新しい分野・技術への興味関心が強く、学習しながらアウトプットをすることが得意です
