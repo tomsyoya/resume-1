@@ -66,6 +66,10 @@ Javaによる開発に加え、AWS、Goなどを使用した開発に従事し�
 - **プロジェクト詳細：**
     - PHP + FuelPHP環境 で構築されたWebAPIを Go + Gin 環境へリプレース
     - Confluence によるAPI仕様書の作成
+- **開発を担当した機能**
+    - バッチ処理によるポイントの付与ステータス更新機能
+    - ポイントの予約有無判定機能
+    - 会員のクレジットカード取得機能
 - **使用した技術**
     - Go1.17, Gin, Gorm, Git, GitHub, Bitbucket, AWS Aurora(MySQL), MySQL 5.7, Docker, JIRA, Confluence, Cacoo, Slack, Zoom, Discord, VSCode, GoLand, MacOS
 - **習得した技術：**
@@ -86,6 +90,9 @@ Javaによる開発に加え、AWS、Goなどを使用した開発に従事し�
     - Java, SpringBoot での API 開発
     - ソフトバンクペイメントサービスの決済機能を利用した携帯キャリア決済機能の実装
     - Confluence によるAPI仕様書の作成
+- **開発を担当した機能**
+    - 決済代行会社の決済申込API機能
+    - 決済解約機能
 - **使用した技術**
     - Java8, SpringBoot2, MyBatis, Gradle, JUnit4, Mockito, Kotlin, Git, GitHub, Bitbucket, MySQL 5.7, Docker, JIRA, Confluence, Cacoo, VSCode, Slack, Zoom, Discord, IntelliJ IDEA, MacOS
 - **習得した技術：**
