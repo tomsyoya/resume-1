@@ -14,7 +14,6 @@
 ## 各種アカウント
 <p>
 <a href="https://github.com/tomsyoya" target="_blank"><img alt="Github" src="https://img.shields.io/badge/tomsyoya-%2312100E.svg?&style=flat-square&logo=Github&logoColor=white" /></a>
-<a href="https://twitter.com/tomsyoya" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/@tomsyoya-%231DA1F2.svg?&style=flat-square&logo=twitter&logoColor=white" /></a>
 <a href="https://qiita.com/tomsyoya" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/tomsyoya-55C500.svg?&style=flat-square&logo=qiita&logoColor=white" /></a>
 </p>
 
@@ -56,7 +55,7 @@
 toC向けWebサービス開発を主に行う。
 Javaによる開発に加え、AWS、Goなどを使用した開発に従事し、対応可能な技術を拡充
 
-**大手プラットフォームサイト ポイント付与機能 システムリプレースプロジェクト（2021/01〜現在）**
+**大手マルチコンテンツ配信サイト ポイント付与機能 システムリプレースプロジェクト（2021/01〜現在）**
 - **プロジェクト概要:**
     - PHP環境で構築されたシステムのGo環境へのリプレース
 - **プロジェクト規模：**
@@ -79,7 +78,7 @@ Javaによる開発に加え、AWS、Goなどを使用した開発に従事し�
 - **メンバーとしての振る舞い**
     - 参画メンバー全員がGo言語による開発未経験ということもあり、先に自己学習で得た知見を可能な限り共有し、スムーズな開発体制ができるように努めました。加えて、上位の社員の方とコミュニケーションを通じ、仕様の詳細化に努め、チーム全体に共有できるよう動きました。
 
-**大手プラットフォームサイト ポイント購入API 新規開発プロジェクト（2021/02〜現在）**
+**大手マルチコンテンツ配信サイト ポイント購入API 新規開発プロジェクト（2021/02〜現在）**
 - **プロジェクト概要:**
     - 携帯電話キャリア決済APIを使用したポイント購入機能の新規開発
 - **プロジェクト規模：**
@@ -234,6 +233,8 @@ Java, Linuxの研修受講後、客先常駐先で主にテスト業務に従事
 - **習得した技術：**
     - Java, Strutsフレームワークを使用したWebアプリケーション構築
     - Linuxの基本操作
+  
+
 ## 意欲・興味
 - 少人数チームで小さく早くリリースし、フィードバックを受けながら改善のサイクルを回していくアジャイルな開発スタイルを好みます
 - フロントエンドだけではなくバックエンド・インフラなど新しい分野・技術への興味関心が強く、学習しながらアウトプットをすることが得意です
